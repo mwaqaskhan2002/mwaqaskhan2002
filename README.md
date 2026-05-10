@@ -1,4 +1,3 @@
-
 ## About Me
 - 🎓 BSCS Student — Virtual University 2025 (Graduated)
 - 💼 Software Industry Trainee
