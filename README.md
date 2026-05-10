@@ -1,4 +1,3 @@
-# Hi there, I'm Waqas Khan! 👋
 
 ## About Me
 - 🎓 BSCS Student — Virtual University 2025 (Graduated)
