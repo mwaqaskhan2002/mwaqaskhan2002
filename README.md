@@ -18,7 +18,7 @@
 ### Backend
 | Project | Description | Tech |
 |---|---|---|
-| [Custom Django Authentication](https://github.com/mwaqaskhan2002/custom-auth-django) | Custom login, signup & password reset via email | Django, Bootstrap, SQLite |
+| [Custom Django Authentication](https://github.com/mwaqaskhan2002/Custom-Auth-Django) | Custom login, signup & password reset via email | Django, Bootstrap, SQLite |
 
 ### Frontend
 | Project | Description | Tech |
