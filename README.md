@@ -24,9 +24,18 @@
 
 ## 📂 Projects
 
+### Backend
 | Project | Description | Tech |
 |---|---|---|
-| [Custom Django Authentication](https://github.com/mwaqaskhan2002/custom-auth-django) | Login, Signup, Password Reset via Email | Django, Bootstrap, SQLLite |
+| [Custom Django Authentication](https://github.com/mwaqaskhan2002/custom-auth-django) | Custom login, signup & password reset via email | Django, Bootstrap, SQLite |
+
+### Frontend
+| Project | Description | Tech |
+|---|---|---|
+| [Bhopali Delights](https://github.com/mwaqaskhan2002/Bhopali-Delights) | Restaurant website frontend | HTML, CSS, Bootstrap |
+| [Digits](https://github.com/mwaqaskhan2002/Digits) | Frontend practice project | HTML, CSS, Bootstrap |
+| [Al-Kawthar University](https://github.com/mwaqaskhan2002/Al-Kawthar_University) | University website frontend | HTML, CSS, Bootstrap |
+| [Quality Ethnics](https://github.com/mwaqaskhan2002/Quality-Ethnics) | Frontend practice project | HTML, CSS, Bootstrap |
 
 
 ## 🔗 Connect With Me
