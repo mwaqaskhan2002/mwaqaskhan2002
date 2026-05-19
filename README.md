@@ -19,6 +19,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | [Custom Django Authentication](https://github.com/mwaqaskhan2002/custom_auth_django) | Custom login, signup & password reset via email | Django, Bootstrap, SQLite |
+| [Django Authentication using django-allauth](https://github.com/mwaqaskhan2002/django-allauth-authentication) | Login, Signup, Email Verification, Google & Facebook OAuth | Django, Bootstrap, SQLite, Gmail SMTP |
 
 ### Frontend
 | Project | Description | Tech |
