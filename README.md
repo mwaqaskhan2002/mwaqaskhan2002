@@ -18,7 +18,7 @@
 ### Backend
 | Project | Description | Tech |
 |---|---|---|
-| [Student Course Management System](https://github.com/mwaqaskhan2002/student-course-management-system) | Advanced CRUD portal featuring dynamic AJAX dependent dropdowns, comprehensive regex data validation, complex multi-table search (Q objects), and heavily optimized ORM queries (select_related/prefetch_related). | Django, Python, Bootstrap 5, Javascript (AJAX), SQLite |
+| [Student Course Management System](https://github.com/mwaqaskhan2002/student-course-management-system) | Advanced CRUD portal featuring dynamic AJAX dependent dropdowns, comprehensive regex data validation, complex multi-table search (Q objects), and heavily optimized ORM queries (select_related/prefetch_related). | Django, Bootstrap 5, Javascript (AJAX), SQLite |
 | [Custom Django Authentication](https://github.com/mwaqaskhan2002/custom_auth_django) | Custom login, signup & password reset via email | Django, Bootstrap, SQLite |
 | [Django Authentication using django-allauth](https://github.com/mwaqaskhan2002/django-allauth-authentication) | Login, Signup, Email Verification, Google & Facebook OAuth | Django, Bootstrap, SQLite, Gmail SMTP |
 
