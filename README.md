@@ -25,7 +25,10 @@
 ### Frontend
 | Project | Description | Tech |
 |---|---|---|
-| [Bhopali Delights](https://github.com/mwaqaskhan2002/Bhopali-Delights) | Restaurant website frontend | HTML, CSS, Bootstrap |
+| [Intellify]([https://github.com/mwaqaskhan2002/Intellify])  | HTML, CSS, Bootstrap |
+| [Al-Afzal Security]([https://github.com/mwaqaskhan2002/Al-Afzal-Security])  | HTML, CSS, Bootstrap |
+| [Port Qasim Authority]([(https://github.com/mwaqaskhan2002/port-qasim-authority)])  | HTML, CSS, Bootstrap |
+| [Bhopali Delights](https://github.com/mwaqaskhan2002/Bhopali-Delights)  | HTML, CSS, Bootstrap |
 | [Digits](https://github.com/mwaqaskhan2002/Digits) | Frontend practice project | HTML, CSS, Bootstrap |
 | [Al-Kawthar University](https://github.com/mwaqaskhan2002/Al-Kawthar_University) | University website frontend | HTML, CSS, Bootstrap |
 | [Quality Ethnics](https://github.com/mwaqaskhan2002/Quality-Ethnics) | Frontend practice project | HTML, CSS, Bootstrap |
