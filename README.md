@@ -1,6 +1,6 @@
 ## About Me
 - 🎓 BSCS Student — Virtual University 2025 (Graduated)
-- 💼 Software Industry Trainee
+- 💼 Software Developer
 - 🌱 Currently learning **Django & Backend Development**
 - 💻 Passionate about building real-world projects
 - 📍 Based in Pakistan
