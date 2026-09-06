@@ -9,7 +9,7 @@
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,bootstrap,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,bootstrap,javascript,)](https://skillicons.dev)
 
 ---
 
